@@ -879,10 +879,7 @@ function dynamic_adaptive_back_all(){
          }),
 
             myPlacemark = new ymaps.Placemark(myMap.getCenter(), {
-               balloonContent: ''
             }, {
-               iconLayout: '',
-               iconImageHref: '',
                iconImageSize: [60, 63.2],
                iconImageOffset: [-50, -38]
             });
