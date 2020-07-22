@@ -421,6 +421,14 @@ body.lock {
   }
 }
 
+@font-face {
+  font-family: "Storytella";
+  font-display: swap;
+  src: url("../fonts/AnyConv.woff") format("woff"), url("../fonts/AnyConv.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
 .header {
   position: absolute;
   top: 0;
