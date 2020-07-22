@@ -422,7 +422,7 @@ body.lock {
 }
 
 @font-face {
-  font-family: "Storytella";
+  font-family: "AnyConv";
   font-display: swap;
   src: url("../fonts/AnyConv.woff") format("woff"), url("../fonts/AnyConv.woff2") format("woff2");
   font-weight: 400;
@@ -770,7 +770,7 @@ body.baguetteBox-open {
 .organic-food__title {
   font-size: 200px;
   font-size: calc(110px + 90 * ((100vw - 320px) / (1600 - 320)));
-  font-family: "Storytella", sans-serif;
+  font-family: "AnyConv", sans-serif;
   color: white;
   margin-bottom: 150px;
 }
@@ -910,7 +910,7 @@ body.baguetteBox-open {
 
 .quality__text {
   font-size: calc(60px + 40 * ((100vw - 320px) / (1600 - 320)));
-  font-family: "Storytella", sans-serif;
+  font-family: "AnyConv", sans-serif;
   position: absolute;
   max-width: 514px;
   top: 28px;
@@ -1115,7 +1115,7 @@ body.baguetteBox-open {
 
 .cake__text {
   font-size: calc(160px + 70 * ((100vw - 320px) / (1600 - 320)));
-  font-family: "Storytella", sans-serif;
+  font-family: "AnyConv", sans-serif;
   color: #ccaf8a;
   position: absolute;
   left: 0px;
