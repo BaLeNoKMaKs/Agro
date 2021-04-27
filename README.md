@@ -1,6 +1,6 @@
 Description
 -----------
-A big landing pagewith lots of cool stuff like parallax, gallery, map, custom grid, etc. HTML, CSS, JS, GULP
+A big landing page with lots of cool stuff like parallax, gallery, map, custom grid, etc. HTML, CSS, JS, GULP
 
 
 Getting Started
